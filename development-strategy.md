@@ -14,7 +14,7 @@ write a short description of your project:
 
 ## 0. Set-Up
 
-__A User can see my initial repository and live demo__
+__A User can see my [initial repository](https://github.com/LiubovPlugar/app-theme) and [live demo](https://liubovplugar.github.io/app-theme/)__
 
 ### Repo
 
