@@ -2,9 +2,9 @@
 
 > `App-theme`
 
-write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+
+- This is a project to create app theme website 
+- Learn how to use css flexbox
 
 ## Wireframe
 
@@ -21,22 +21,37 @@ __A User can see my [initial repository](https://github.com/LiubovPlugar/app-the
 - Generate from Template
 - Write initial, basic README
 - Turn on GitHub Pages
+- Clone repo
+- Write development-strategy
+- Push changes
 
-## 1. __
+## 1. Home page
 
-__full user story description__
 
-### Repo
+### Branches
 
-what branch(es) did you work on?
+- This user story developed on master branch
+- index.html
+- writing code
+- commit and push changes
+- create project board
 
 ### HTML
 
-what did you change in the HTML and why?
+- header
+- showcase
+- features
+- info section
+- company
+- footer
+
 
 ### CSS
 
-what did you change in the CSS and why?
+- css folder
+- add style.css
+- add flexboxgrid.css
+- add font-awesome.css
 
 ## 2. ...
 
